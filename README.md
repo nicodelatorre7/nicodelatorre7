@@ -1,6 +1,6 @@
 # Hi, I'm [Nicolas de la Torre](https://github.com/nicodelatorre7)!
 
-<img align="center" alt="Nicolas de la Torre | Cover image" src="https://github.com/nicodelatorre7/nicodelatorre7/blob/master/resources/cover.jpg" />
+<img align="center" alt="Nicolas de la Torre | Cover image" src="https://github.com/nicodelatorre7/nicodelatorre7/blob/main/resources/cover.jpg" />
 
 I am a Full-Stack Software Engineer (BS, MEng) from the Instituto Tecnológico de Buenos Aires (ITBA) with over five years of professional experience, specializing in both front-end and back-end projects. I am enthusiastic about technology, innovative ideas and I enjoy sharing my knowledge through programming education.
 
