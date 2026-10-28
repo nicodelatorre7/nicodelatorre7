@@ -1,6 +1,6 @@
 <div align="center">
-  <h1><a href="https://www.nicodelatorre.com">I'm Nicolas de la Torre</a></h1>
-  <p>A Software Engineer (BS, MEng) from the Instituto Tecnológico de Buenos Aires (ITBA) with over 5 years of experience in software development, specializing in frontend, backend, and smart contract technologies. Committed to implementing efficient and scalable solutions, backed by a strong understanding of agile development and a continuous improvement mindset. </p>
+  <h1>I'm Nicolas de la Torre</h1>
+  <p>A Software Engineer with over 5 years of experience in software development, specializing in frontend, backend, AI, and Web3 technologies. Committed to implementing efficient and scalable solutions, backed by a strong understanding of agile development and a continuous improvement mindset. </p>
 </div>
 
 <div align="center">
@@ -11,10 +11,10 @@
 
 I have experience:
 
+- Creating AI Workflows and agents
 - Building websites 🖥️
 - Building SmartContracts ₿
 - Programming Mobile Apps 📱
-- Creating Videogames 🎮
 - And many more...
 
 ## Social Links
@@ -27,8 +27,5 @@ I have experience:
 </a>
 <a href="mailto:nicodelatorre7@gmail.com">
   <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />
-</a>
-<a href="https://nicodelatorre.com/">
-  <img align="left" alt="Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/about-dot-me.svg" />
 </a>
 </br>
